@@ -1,0 +1,9 @@
+hello 0 0 0 0
+kalle 1 0 1 0
+Ander 0 0 0 0
+Dan 1 0 1 0
+Carl 1 0 1 0
+Nils 0 0 0 0
+fds 0 0 0 0
+d 0 0 0 0
+hej
